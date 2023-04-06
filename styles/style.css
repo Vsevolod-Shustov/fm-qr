@@ -19,6 +19,7 @@ body {
     font-size:0.9375rem;
     font-family: Outfit, Verdana, Geneva, Tahoma, sans-serif;
     background-color: var(--grayish-blue);
+    padding: 1rem 0;
 }
 
 .main {
